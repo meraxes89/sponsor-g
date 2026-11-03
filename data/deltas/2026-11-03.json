@@ -1,0 +1,1159 @@
+{
+  "date": "2026-11-03",
+  "updated": "2026-11-03 13:56 UTC",
+  "sha256": "6821635a342cbdcd581d05d819eb1831acb0ae32598721bb128d66f0bff0333b",
+  "total": 127743,
+  "net_drift": 27,
+  "added_count": 70,
+  "removed_count": 43,
+  "downgrades_count": 2,
+  "added": [
+    [
+      "AH FACILITIES MGT LTD",
+      "Barking",
+      "",
+      "Security & Facilities",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Apexia VIP Ltd",
+      "Manchester",
+      "",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Arcadia Food Industries Ltd",
+      "Bradford",
+      "WEST YORKSHIRE",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Avado PQ Ltd",
+      "London",
+      "",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "BBS Capital Ltd",
+      "London",
+      "",
+      "Finance & Professional",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Blue Pixel Solutions Ltd",
+      "Rowlands Castle",
+      "Hampshire",
+      "Tech & Software",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Boulder Consultants Ltd",
+      "Henley-on-Thames",
+      "",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "BRAM LIMITED",
+      "London",
+      "",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "BRITANNIA AUTO GROUP LTD",
+      "Slough",
+      "",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "BUN AND BUTTER LIMITED",
+      "London",
+      "",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Cauri ltd",
+      "Birmingham",
+      "",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Complete Book Ltd T/A Complete Book Accountants",
+      "Southampton",
+      "",
+      "Finance & Professional",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "CRYSTAL NET SOLUTIONS LTD",
+      "LIVERPOOL",
+      "",
+      "Tech & Software",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "DV SUPPLIES LTD",
+      "Luton",
+      "",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Epicare Health Ltd T/A Epicare Health Pharmacy",
+      "Swindon",
+      "",
+      "Healthcare & Care",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Fairfield Park Health Centre",
+      "Bath",
+      "",
+      "Healthcare & Care",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "FCamara Consulting & Training",
+      "Hertfordshire",
+      "",
+      "Finance & Professional",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "fenton + reece Ltd",
+      "Chester",
+      "Cheshire",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Fez Transport Ltd",
+      "Blackburn",
+      "",
+      "Logistics & Transport",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "FIRSTCALL 247 LIMITED",
+      "Nottingham",
+      "",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "GILEAD HOMES LTD",
+      "Stanmore",
+      "",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "GLASS CENTRE",
+      "Light Water",
+      "Surrey",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "GR Extra Space UK LTD",
+      "Maidenhead",
+      "",
+      "Beauty & Wellbeing",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Hello Bill Limited",
+      "London",
+      "",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Herefordshire, Ludlow and North Shropshire College",
+      "Hereford",
+      "Herefordshire",
+      "Education & Research",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "HERTS WHEELS LTD",
+      "ST ALBANS",
+      "",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "High Technology Sources Limited",
+      "Didcot",
+      "Oxfordshire",
+      "Tech & Software",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "HSS The Hire Service Company",
+      "Cranford",
+      "",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "I'm So Good Ltd",
+      "Nottingham",
+      "",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "INCO FOODS LTD T/A Slough Food Emporium",
+      "Slough",
+      "",
+      "Hospitality & Food",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Independent Forgings and Alloys LTD",
+      "Sheffield",
+      "South Yorkshire",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Individual Interiors Ltd",
+      "Buckhurst Hill",
+      "",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Intechnica Limited",
+      "Manchester",
+      "",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "K B Natural Foods Limited",
+      "London",
+      "",
+      "Hospitality & Food",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "K B Tech Limited",
+      "Tunbridge Wells",
+      "Kent",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Kanri UK Ltd T/A Katana Peterborough",
+      "Peterborough",
+      "",
+      "Public Sector",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Kappture Ltd",
+      "Derby",
+      "",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Kitchens International Retail Ltd",
+      "Edinburgh",
+      "",
+      "Hospitality & Food",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Laleham Gap School",
+      "Ramsgate",
+      "Kent",
+      "Education & Research",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "LDC Limited",
+      "Guildford",
+      "Surrey",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Leocrys Care Limited",
+      "Maldon",
+      "",
+      "Healthcare & Care",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Lindus Health CRO Limited",
+      "London",
+      "",
+      "Healthcare & Care",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Nene Valley Care Homes",
+      "Peterborough",
+      "Cambridgeshire",
+      "Healthcare & Care",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "North Cheshire and Mersey NHS Foundation Trust",
+      "Warrington",
+      "Cheshire",
+      "Charity & Faith",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Northern Wolf Trading Company Limited",
+      "Liverpool",
+      "",
+      "Retail & Commerce",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Oshkosh Aerotech UK Ltd",
+      "Slough",
+      "",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "PAK BUILDER CONSTRUCTION LIMITED",
+      "Birmingham",
+      "",
+      "Construction & Engineering",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Plasmapen Ltd",
+      "Liverpool",
+      "Merseyside",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Plus Value Advisory Limited",
+      "London",
+      "",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "PURDEX LIMITED",
+      "London",
+      "England",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "R H Mega Wholesales LTD",
+      "London",
+      "",
+      "Retail & Commerce",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Rama Chandra Fuel Services Ltd",
+      "Widnes",
+      "",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Results Align Limited",
+      "Abingdon",
+      "",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Retford Dental Care Ltd",
+      "Retford",
+      "",
+      "Healthcare & Care",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "S & S Support Services",
+      "Ilford",
+      "Essex",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "SENTINEL GUARDING LIMITED",
+      "Shipley",
+      "",
+      "Security & Facilities",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Speed Enterprise Limited",
+      "Leicester",
+      "",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "SPRING AND CO SOLICITORS LTD",
+      "LUTON",
+      "BEDFORSHIRE",
+      "Finance & Professional",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "SS Manchester Limited",
+      "London",
+      "",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "SupaJam Education In Music and Media",
+      "Swanley",
+      "Kent",
+      "Education & Research",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "SUPPORT HEALTH CARE LTD",
+      "MANCHESTER",
+      "Greater Manchester",
+      "Healthcare & Care",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Suregro Technology Ltd T/A Conqr AI",
+      "London",
+      "",
+      "Tech & Software",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "SUSASH Middlesbrough Ltd",
+      "Mitcham",
+      "Surrey",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "The Downland Bedding Company Ltd",
+      "LIVERPOOL",
+      "Merseyside",
+      "Property & Real Estate",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "TRUSTPRO CONSULTING LTD",
+      "ABERDEEN",
+      "",
+      "Finance & Professional",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "TuffX Processed Glass Limited",
+      "Prescot",
+      "Merseyside",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "United Fruit Growers Limited",
+      "Gillingham",
+      "Kent",
+      "Agriculture & Food Production",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Weber Industries Ltd",
+      "London",
+      "",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "WHS Central Services Ltd",
+      "Minworth",
+      "Sutton Coldfield",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Zudu Ltd",
+      "Edinburgh",
+      "",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ]
+  ],
+  "removed": [
+    [
+      "AH FACILITIES MGT LTD",
+      "London",
+      "",
+      "Security & Facilities",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "ALSADIQ&SONS LOGISTICS SERVICE LIMITED",
+      "Birmingham",
+      "",
+      "Logistics & Transport",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Anglo American Crop Nutrients Limited",
+      "Whitby",
+      "",
+      "Other",
+      [
+        "Global Business Mobility: Senior or Specialist Worker",
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "BEST WHOLESALES LTD",
+      "London",
+      "",
+      "Retail & Commerce",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "BH-DG Systematic Trading LLP",
+      "London",
+      "",
+      "Retail & Commerce",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Care Givers Ltd",
+      "Colchester",
+      "",
+      "Healthcare & Care",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Catherine Isted",
+      "Horley",
+      "Surrey",
+      "Other",
+      [
+        "International Sportsperson"
+      ],
+      "A"
+    ],
+    [
+      "Cauri ltd",
+      "London",
+      "",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Crescent Manufacturing Ltd",
+      "London",
+      "",
+      "Manufacturing & Industry",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "CTS",
+      "Morley",
+      "Leeds",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "DV SUPPLIES LTD",
+      "London",
+      "",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Enliven Social Care Ltd",
+      "Leicester",
+      "",
+      "Healthcare & Care",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "FCamara Consulting & Training",
+      "London",
+      "",
+      "Finance & Professional",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Fez Transport Ltd",
+      "Preston",
+      "",
+      "Logistics & Transport",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "FIRSTCALL 247 LIMITED",
+      "ILKESTONE",
+      "",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "FKP Scorpio Uk Ltd",
+      "London",
+      "",
+      "Other",
+      [
+        "Creative Worker",
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "GLASS CENTRE",
+      "Hounslow West",
+      "London area",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Goldstar Care Services Limited",
+      "Ilford",
+      "Essex",
+      "Healthcare & Care",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "GR Extra Space UK LTD",
+      "Scurnthorpe",
+      "",
+      "Beauty & Wellbeing",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "GURKHA EXPRESS",
+      "NOTTINGHAM",
+      "",
+      "Logistics & Transport",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Hilson Moran Partnership Ltd",
+      "London",
+      "",
+      "Finance & Professional",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Hstar Ventures Ltd",
+      "Leigh",
+      "",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Macfarlane Media Limited /The Media Image",
+      "London",
+      "",
+      "Media & Creative",
+      [
+        "Global Business Mobility: Senior or Specialist Worker",
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Mak Building Services Pvt Ltd",
+      "Leicester",
+      "Leicestershire",
+      "Construction & Engineering",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "MASALA BAZAAR NEWPORT LTD",
+      "Cwmbran",
+      "Wales",
+      "Retail & Commerce",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Moneda Capital Asset Management Ltd",
+      "London",
+      "",
+      "Finance & Professional",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Nahid Residential Limited",
+      "Surrey",
+      "",
+      "Property & Real Estate",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Northern Wolf Trading Company Limited",
+      "Birkenhead",
+      "",
+      "Retail & Commerce",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "ONGARMART",
+      "LEICESTER",
+      "",
+      "Retail & Commerce",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Pracedo Ltd",
+      "London",
+      "",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Rajshree Catering Limited T/A The Gurkha Kitchen",
+      "Maidstone",
+      "Kent",
+      "Hospitality & Food",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Rama Chandra Fuel Services Ltd",
+      "Liverpool",
+      "",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "SENTINEL GUARDING LIMITED",
+      "Bradford",
+      "",
+      "Security & Facilities",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "SOK UK Limited",
+      "Okehampton",
+      "",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "SUPPORT HEALTH CARE LTD",
+      "BOLTON",
+      "",
+      "Healthcare & Care",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Supremacy Care Services Limited",
+      "Frimley Park",
+      "",
+      "Healthcare & Care",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Teme Care Limited T/A Teme Court Residential Care Home",
+      "Worcester",
+      "Worcestershire",
+      "Healthcare & Care",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "THALASIC LTD",
+      "Liverpool",
+      "",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "The Samsons Services Limited",
+      "Leicester",
+      "Leicestershire",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "The-Bunch Limited",
+      "Bristol",
+      "Bristol",
+      "Other",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Towerview Care Ltd",
+      "Burton-upon-Trent",
+      "",
+      "Healthcare & Care",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "TULIP MENTAL HEALTH AND COMMUNITY CARE LTD",
+      "Rusholme",
+      "Manchester",
+      "Healthcare & Care",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ],
+    [
+      "Warrington and Halton Hospitals NHS Foundation Trust",
+      "Warrington",
+      "Cheshire",
+      "Public Sector",
+      [
+        "Skilled Worker"
+      ],
+      "A"
+    ]
+  ],
+  "downgrades": [
+    [
+      "Moore Pharma Ltd",
+      "Southampton",
+      "A -> B"
+    ],
+    [
+      "Mission Care",
+      "Chislehurst",
+      "A -> B"
+    ]
+  ]
+}
