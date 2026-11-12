@@ -1,9 +1,19 @@
 {
-  "updated": "2026-11-11 13:55 UTC",
+  "updated": "2026-11-12 14:57 UTC",
   "changes": [
     [
-      "SentriCare Limited",
-      "Walsall",
+      "Exclusive Care",
+      "Gateshead",
+      "A -> B"
+    ],
+    [
+      "Foundation of Lady Katherine Leveson",
+      "Solihull",
+      "A -> B"
+    ],
+    [
+      "Blackdice Healthcare Limited",
+      "Devon",
       "A -> B"
     ]
   ]
