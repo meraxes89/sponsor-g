@@ -1,20 +1,35 @@
 {
-  "updated": "2026-11-12 14:57 UTC",
+  "updated": "2026-11-18 15:27 UTC",
   "changes": [
     [
-      "Exclusive Care",
-      "Gateshead",
+      "Grace Manor Care Limited t/a Grace Manor Care Centre",
+      "Gillingham",
       "A -> B"
     ],
     [
-      "Foundation of Lady Katherine Leveson",
-      "Solihull",
+      "St. Luke's Oxford",
+      "OXFORD",
       "A -> B"
     ],
     [
-      "Blackdice Healthcare Limited",
-      "Devon",
+      "Care Force Limited",
+      "Bromsgrove",
       "A -> B"
+    ],
+    [
+      "Bloomscare Ltd",
+      "Dagenham",
+      "A -> B"
+    ],
+    [
+      "Newcastle Accountancy Limited",
+      "Newcastle upon Tyne",
+      "A -> B"
+    ],
+    [
+      "Hammersmith and Fulham Partnership",
+      "London",
+      "B -> A"
     ]
   ]
 }
