@@ -1,59 +1,59 @@
 {
-  "updated": "2026-11-18 15:27 UTC",
-  "total": 127698,
-  "added_since_last_run": 263,
-  "removed_since_last_run": 249,
-  "added_recently": 263,
-  "removed_recently": 249,
-  "net_drift": 14,
-  "downgraded_recently": 5,
+  "updated": "2026-11-19 15:33 UTC",
+  "total": 127663,
+  "added_since_last_run": 77,
+  "removed_since_last_run": 112,
+  "added_recently": 77,
+  "removed_recently": 112,
+  "net_drift": -35,
+  "downgraded_recently": 2,
   "total_flagged": 9490,
-  "total_serious": 2485,
-  "total_notable": 1742,
+  "total_serious": 2448,
+  "total_notable": 1738,
   "total_nmw": 389,
   "risk_pct": 7.43,
   "top_flagged_locations": [
     [
       "London",
-      2784
+      2774
     ],
     [
       "Manchester",
-      263
+      262
     ],
     [
       "Birmingham",
-      231
+      229
     ],
     [
       "Leicester",
-      120
+      119
     ],
     [
       "Glasgow",
-      112
+      110
     ]
   ],
   "top_revoked_sectors": [
     [
       "Healthcare & Care",
-      31
-    ],
-    [
-      "Hospitality & Food",
-      23
-    ],
-    [
-      "Tech & Software",
-      15
-    ],
-    [
-      "Finance & Professional",
       14
     ],
     [
-      "Retail & Commerce",
-      10
+      "Hospitality & Food",
+      13
+    ],
+    [
+      "Tech & Software",
+      7
+    ],
+    [
+      "Finance & Professional",
+      6
+    ],
+    [
+      "Motor & Automotive",
+      4
     ]
   ],
   "top_towns": [
