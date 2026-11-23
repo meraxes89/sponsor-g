@@ -1,15 +1,20 @@
 {
-  "updated": "2026-11-19 15:33 UTC",
+  "updated": "2026-11-23 17:50 UTC",
   "changes": [
     [
-      "Rosewood & Brook House Ltd",
-      "Somerset",
+      "Eniro Care Limited",
+      "Didcot",
       "A -> B"
     ],
     [
-      "TLC Care Management Limited",
-      "Huddersfield",
+      "Surecare Enfield",
+      "Enfield",
       "A -> B"
+    ],
+    [
+      "EXCELLENCE CARE LTD",
+      "Basildon",
+      "B -> A"
     ]
   ]
 }
